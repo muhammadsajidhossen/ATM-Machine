@@ -51,9 +51,6 @@ Keyboard,30,49.99
 ...
 ```
 
-### **Sample CSV File**
-You can download a sample CSV file [here](inventory_products.csv).
-
 ## Exporting Products to PDF
 
 1. Click on **"Export to PDF"**.
@@ -63,6 +60,4 @@ You can download a sample CSV file [here](inventory_products.csv).
 ## License
 This project is open-source and available for modification and distribution.
 
-## Author
-Developed by **Your Name**  
-For inquiries, contact: `your.email@example.com`
+
